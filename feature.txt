@@ -1,2 +1,5 @@
 This is a master change
 This is a feature
+:wq
+another
+time
